@@ -1,0 +1,220 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+ 
+
+/*index*/
+
+  /* body{
+   background-image: url("../imagenes/ai-generated-8434216_1280jpg\ SIN\ brillo.jpg");
+    background-repeat: no-repeat;
+    background-position: center; 
+    background-size: cover; 
+    height: 100%;
+    
+      object-fit: cover;
+      object-position: center center;
+    
+    
+  }*/
+/*color menu hamburguesa*/
+  div .offcanvas{
+    background-color: #D7E4C0;
+  }
+  div .offcanvas-header{
+    padding: 13px;
+  }
+.container-fluid{
+  height: 50px;
+
+}
+.container-fluid img{
+height: 277px;
+margin-top: -60px;
+margin-left: -30px;
+
+}
+.container-fluid button{
+  height: 35px;
+  margin-top: -150px;
+  
+  }
+
+.offcanvas-header{
+  height: 80px;
+  border-bottom: 1px solid black;
+}
+
+  .offcanvas-header img {
+    flex-direction: row;
+    justify-content: flex-start;
+    margin-top: 17px;
+    height: 200px;
+  }
+.nav-item a{
+  font-family: 'Raleway', sans-serif;
+  font-weight: bold;
+  color: black;
+}
+
+.offcanvas-header .btn-close {
+ background-color: transparent; 
+ width: 35px;
+}
+
+.texto-inicial{
+  display: flex;
+  margin-top: 200px;
+  margin-bottom: 30px;
+  color: black;
+  font-family: 'Raleway', sans-serif;
+  font-weight: bold;
+  justify-content: center;
+  text-align: center;
+}
+.tarjeta {
+  display: flex;
+ justify-content: space-around;
+ flex-direction: row;
+}
+.card {
+ 
+  margin: 10px;
+}
+.card-body{
+  background-color: #D7E4C0;
+}
+.footer{
+  background-color: #D7E4C0;
+  padding: 20px;
+  margin-top: 20px;
+}
+.imagen-nosotros{
+  display: flex;
+  justify-content: flex-end;
+  margin: 30px;
+  margin-right: 90px;
+}
+.imagen-nosotros img{
+  height: 600px;
+}
+
+
+.texto-nosotros{
+  justify-content: center;
+  text-align: center;
+  padding: 30px;
+  margin-top: 250px;
+  background-color:#D7E4C0 ;
+  font-size: 15px;
+  font-family: 'Raleway', sans-serif;
+  
+}
+
+.caja-prop{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 120px;
+ 
+  
+}
+
+.card div{
+  
+  padding: -20px;
+}
+
+
+.row div{
+  background-color: #D7E4C0;
+}
+.row-textonos{
+
+  display: flex;
+  flex-direction: row;
+}
+
+.img-fluid1{
+  width: 250px;
+}
+
+.img-fluid2{
+  width: 223.5px;
+}
+.img-fluid3{
+  width: 220.7px;
+}
+
+.img-fluid4{
+  width: 229.5px;
+}
+.texto-prop-padre{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-top: 200px;
+  margin-bottom: -120px;
+}
+.texto-prop{
+  font-family: 'Bebas Neue', sans-serif;
+}
+h1.texto-prop{
+  color: rgba(18, 17, 17, 0.829);
+}
+.card-title{
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  display: flex;
+  font-family: 'Raleway', sans-serif;
+  font-weight: bold;
+  
+  /*font-family:"Zilla Slab", serif;*/
+}
+h5.card-title {
+  color: rgba(18, 17, 17, 0.829);
+}
+
+/*contactos*/
+.contactos-h2{
+  display: flex;
+  justify-content: center;
+  font-family: 'Bebas Neue', sans-serif;
+  margin-top: 200px;
+  margin-bottom: 20px;
+ 
+}
+.contactos{
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+}
+
+.form-label{
+  font-family: 'Raleway', sans-serif;
+  margin: 10px;
+}
+.boton-contactos{
+  margin: 10px;
+}
+/*fin de la hoja de estilos de contactos*/
+
+/*diseño de interior*/
+.img-fluid5{
+width: 170px;
+}
+.img-fluid6{
+  width: 217px;
+  }
+  .img-fluid7{
+    width: 266px;
+    }
+    .img-fluid8{
+      width: 170px;
+      }
+/*fin*/
